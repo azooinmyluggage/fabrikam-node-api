@@ -6,7 +6,7 @@ router.get('/', function(req, res) {
 //  res.send('respond with a resource');
 
 var myObj = {
-    "App":"Fabrikam",
+    "App":"Fabrikam API",
     "Department":"Express",
     "users": [
       {"name":"boring_dubinsky", "age":31, "city":"New York"},
